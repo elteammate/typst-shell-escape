@@ -1,0 +1,5 @@
+/target
+**/*.pdf
+shell-escape
+.idea
+.vscode
