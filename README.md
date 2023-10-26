@@ -1,3 +1,15 @@
+# ARCHIVED
+
+Starting from Typst v0.something, this no longer works due to forcing the 
+`--root` option. Not that it should be used anyway.
+
+I wrote this a long time ago, mostly as a joke, yet a few people thanked me
+in DMs in discord for implementing it. I am totally fine with people using 
+my stuff, but I know that what I made can be significantly improved upon,
+at least ported to the latest version of Typst.
+
+And at the moment, I am not in the mood to improve it.
+
 # Shell Escape for Typst
 
 This is a simple shell escape for [Typst](https://typst.app/). It allows you
